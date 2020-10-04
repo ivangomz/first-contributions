@@ -5885,6 +5885,7 @@ Hirva  Shah
 - [Pumpkinman](https://github.com/pumpkinman008)
 - [Ritish Kumar](https://github.com/mofolactic)
 - [Swarnim Gupta] (https://github.com/Swarnim01)
+- [Ivan Gomez] (https://github.com/ivangmz)
 - [Maitreya Dudhgaonkar] (https://github.com/virus2116)
 - [Naka Rapstar] (https://github.com/Nakasz)
 - [Avleen Kaur](https://github.com/avleen2898)
